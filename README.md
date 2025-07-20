@@ -61,7 +61,7 @@ PORT=3001
 
 ```bash
 cd express-app
-npm run dev
+node index
 ```
 
 The server will start on [http://localhost:3001](http://localhost:3001).
